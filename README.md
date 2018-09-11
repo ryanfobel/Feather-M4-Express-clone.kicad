@@ -4,7 +4,7 @@ design files. Conversion from Eagle was performed using [these eagle-to-kicad sc
 
 For more details on Adafruit's Feather M4 Express, check out the product pages at
 
-   * https://www.adafruit.com/products/3800
+   * https://www.adafruit.com/products/3857
 
 Adafruit invests time and resources providing this open source design, 
 please support Adafruit and open-source hardware by purchasing 
