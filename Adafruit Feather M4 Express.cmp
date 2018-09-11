@@ -1,0 +1,731 @@
+Cmp-Mod V01 Created by Cvpcb (2015-02-06 BZR 5410)-product   date = Mon 09 Feb 2015 04:12:04 PM PST
+
+BeginCmp
+TimeStamp = /5B97D319;
+Reference = C2;
+ValeurCmp = CAP_CERAMIC0603_NO;
+IdModule  = MICROBUILDER_0603-NO;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B97D3E1;
+Reference = C3;
+ValeurCmp = CAP_CERAMIC0805-NOOUTLINE;
+IdModule  = MICROBUILDER_0805-NO;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B97D4A9;
+Reference = C4;
+ValeurCmp = CAP_CERAMIC0603_NO;
+IdModule  = MICROBUILDER_0603-NO;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B97D571;
+Reference = C5;
+ValeurCmp = CAP_CERAMIC0805-NOOUTLINE;
+IdModule  = MICROBUILDER_0805-NO;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B97D639;
+Reference = C6;
+ValeurCmp = CAP_CERAMIC0805-NOOUTLINE;
+IdModule  = MICROBUILDER_0805-NO;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B97D701;
+Reference = C7;
+ValeurCmp = CAP_CERAMIC0603_NO;
+IdModule  = MICROBUILDER_0603-NO;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B97D7C9;
+Reference = C8;
+ValeurCmp = CAP_CERAMIC0805-NOOUTLINE;
+IdModule  = MICROBUILDER_0805-NO;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B97D891;
+Reference = C10;
+ValeurCmp = CAP_CERAMIC0603_NO;
+IdModule  = MICROBUILDER_0603-NO;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B97D959;
+Reference = C11;
+ValeurCmp = CAP_CERAMIC0603_NO;
+IdModule  = MICROBUILDER_0603-NO;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B97DA21;
+Reference = C12;
+ValeurCmp = CAP_CERAMIC0603_NO;
+IdModule  = MICROBUILDER_0603-NO;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B97DAE9;
+Reference = C13;
+ValeurCmp = CAP_CERAMIC0805-NOOUTLINE;
+IdModule  = MICROBUILDER_0805-NO;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B97DBB1;
+Reference = C14;
+ValeurCmp = CAP_CERAMIC0603_NO;
+IdModule  = MICROBUILDER_0603-NO;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B97DC79;
+Reference = C15;
+ValeurCmp = CAP_CERAMIC0603_NO;
+IdModule  = MICROBUILDER_0603-NO;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B97DD41;
+Reference = CHG40;
+ValeurCmp = LED0805_NOOUTLINE;
+IdModule  = MICROBUILDER_CHIPLED_0805_NOOUTLINE;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B97DE09;
+Reference = D+40;
+ValeurCmp = TPB1_27;
+IdModule  = TESTPAD_B1_27;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B97DED1;
+Reference = D-40;
+ValeurCmp = TPB1_27;
+IdModule  = TESTPAD_B1_27;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B97DF99;
+Reference = D4;
+ValeurCmp = DIODE-SCHOTTKYSOD-123;
+IdModule  = MICROBUILDER_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B97E31D;
+Reference = JP1;
+ValeurCmp = HEADER-1X16ROUND;
+IdModule  = MICROBUILDER_1X16_ROUND;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B97E3E5;
+Reference = JP3;
+ValeurCmp = HEADER-1X12;
+IdModule  = MICROBUILDER_1X12_ROUND;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B97E4AD;
+Reference = L2;
+ValeurCmp = INDUCTOR;
+IdModule  = MICROBUILDER_INDUCTOR_1007;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B97E575;
+Reference = L40;
+ValeurCmp = LED0805_NOOUTLINE;
+IdModule  = MICROBUILDER_CHIPLED_0805_NOOUTLINE;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B97E63D;
+Reference = LED1;
+ValeurCmp = WS2812B3535;
+IdModule  = MICROBUILDER_LED3535;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B97E705;
+Reference = Q3;
+ValeurCmp = MOSFET-P;
+IdModule  = MICROBUILDER_SOT23-R;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B97E7CD;
+Reference = R2;
+ValeurCmp = RESISTOR_0603_NOOUT;
+IdModule  = MICROBUILDER_0603-NO;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B97E895;
+Reference = R3;
+ValeurCmp = RESISTOR_0603_NOOUT;
+IdModule  = MICROBUILDER_0603-NO;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B97E95D;
+Reference = R4;
+ValeurCmp = RESISTOR_0603_NOOUT;
+IdModule  = MICROBUILDER_0603-NO;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B97EA25;
+Reference = R5;
+ValeurCmp = RESISTOR_0603_NOOUT;
+IdModule  = MICROBUILDER_0603-NO;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B97EAED;
+Reference = R6;
+ValeurCmp = RESISTOR_0603_NOOUT;
+IdModule  = MICROBUILDER_0603-NO;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B97EBB5;
+Reference = R7;
+ValeurCmp = RESISTOR_0603_NOOUT;
+IdModule  = MICROBUILDER_0603-NO;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B97EC7D;
+Reference = R8;
+ValeurCmp = RESISTOR_0603_NOOUT;
+IdModule  = MICROBUILDER_0603-NO;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B97ED45;
+Reference = R9;
+ValeurCmp = RESISTOR_4PACK_NO;
+IdModule  = MICROBUILDER_RESPACK_4X0603_NO;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B97EF39;
+Reference = SJ1;
+ValeurCmp = SOLDERJUMPERCLOSED;
+IdModule  = MICROBUILDER_SOLDERJUMPER_CLOSEDWIRE;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B97F001;
+Reference = SW1;
+ValeurCmp = SWITCH_TACT_SMT4.6X2.8;
+IdModule  = MICROBUILDER_BTN_KMR2_4.6X2.8;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B97F0C9;
+Reference = TP1;
+ValeurCmp = TESTPOINTROUND1.5MM;
+IdModule  = MICROBUILDER_TESTPOINT_ROUND_1.5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B97F191;
+Reference = TP2;
+ValeurCmp = TESTPOINTROUND1.5MM;
+IdModule  = MICROBUILDER_TESTPOINT_ROUND_1.5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B97F515;
+Reference = U$14;
+ValeurCmp = ATSAMD51J;
+IdModule  = MICROBUILDER_PQFN64-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B97FC1D;
+Reference = U$31;
+ValeurCmp = MOUNTINGHOLE2.5;
+IdModule  = MICROBUILDER_MOUNTINGHOLE_2.5_PLATED;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B97FCE5;
+Reference = U$32;
+ValeurCmp = MOUNTINGHOLE2.5;
+IdModule  = MICROBUILDER_MOUNTINGHOLE_2.5_PLATED;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B97FE11;
+Reference = U$34;
+ValeurCmp = FIDUCIAL_1MM;
+IdModule  = MICROBUILDER_FIDUCIAL_1MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B97FED9;
+Reference = U$35;
+ValeurCmp = FIDUCIAL_1MM;
+IdModule  = MICROBUILDER_FIDUCIAL_1MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B9800CD;
+Reference = U1;
+ValeurCmp = SPIFLASH_8PINUX;
+IdModule  = MICROBUILDER_USON8;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B980195;
+Reference = U2;
+ValeurCmp = VREG_SOT23-5;
+IdModule  = MICROBUILDER_SOT23-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B98025D;
+Reference = U3;
+ValeurCmp = MCP73831/2;
+IdModule  = MICROBUILDER_SOT23-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B980325;
+Reference = VP_0;
+ValeurCmp = VPDEV0;
+IdModule  = VPAD_VPAC0;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B9803ED;
+Reference = VP_1;
+ValeurCmp = VPDEV0;
+IdModule  = VPAD_VPAC0;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B9804B5;
+Reference = VP_2;
+ValeurCmp = VPDEV0;
+IdModule  = VPAD_VPAC0;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B98057D;
+Reference = VP_3;
+ValeurCmp = VPDEV0;
+IdModule  = VPAD_VPAC0;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B980645;
+Reference = VP_4;
+ValeurCmp = VPDEV0;
+IdModule  = VPAD_VPAC0;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B98070D;
+Reference = VP_5;
+ValeurCmp = VPDEV0;
+IdModule  = VPAD_VPAC0;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B9807D5;
+Reference = VP_6;
+ValeurCmp = VPDEV0;
+IdModule  = VPAD_VPAC0;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B98089D;
+Reference = VP_7;
+ValeurCmp = VPDEV0;
+IdModule  = VPAD_VPAC0;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B980965;
+Reference = VP_8;
+ValeurCmp = VPDEV0;
+IdModule  = VPAD_VPAC0;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B980A2D;
+Reference = VP_9;
+ValeurCmp = VPDEV0;
+IdModule  = VPAD_VPAC0;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B980AF5;
+Reference = VP_10;
+ValeurCmp = VPDEV0;
+IdModule  = VPAD_VPAC0;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B980BBD;
+Reference = VP_11;
+ValeurCmp = VPDEV0;
+IdModule  = VPAD_VPAC0;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B980C85;
+Reference = VP_12;
+ValeurCmp = VPDEV0;
+IdModule  = VPAD_VPAC0;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B980D4D;
+Reference = VP_13;
+ValeurCmp = VPDEV1;
+IdModule  = VPAD_VPAC1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B980E15;
+Reference = VP_14;
+ValeurCmp = VPDEV1;
+IdModule  = VPAD_VPAC1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B980EDD;
+Reference = VP_15;
+ValeurCmp = VPDEV1;
+IdModule  = VPAD_VPAC1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B980FA5;
+Reference = VP_16;
+ValeurCmp = VPDEV1;
+IdModule  = VPAD_VPAC1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B98106D;
+Reference = VP_17;
+ValeurCmp = VPDEV1;
+IdModule  = VPAD_VPAC1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B981135;
+Reference = VP_18;
+ValeurCmp = VPDEV1;
+IdModule  = VPAD_VPAC1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B9811FD;
+Reference = VP_19;
+ValeurCmp = VPDEV1;
+IdModule  = VPAD_VPAC1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B9812C5;
+Reference = VP_20;
+ValeurCmp = VPDEV1;
+IdModule  = VPAD_VPAC1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B98138D;
+Reference = VP_21;
+ValeurCmp = VPDEV1;
+IdModule  = VPAD_VPAC1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B981455;
+Reference = VP_22;
+ValeurCmp = VPDEV1;
+IdModule  = VPAD_VPAC1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B98151D;
+Reference = VP_23;
+ValeurCmp = VPDEV1;
+IdModule  = VPAD_VPAC1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B9815E5;
+Reference = VP_24;
+ValeurCmp = VPDEV1;
+IdModule  = VPAD_VPAC1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B9816AD;
+Reference = VP_25;
+ValeurCmp = VPDEV1;
+IdModule  = VPAD_VPAC1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B981775;
+Reference = VP_26;
+ValeurCmp = VPDEV1;
+IdModule  = VPAD_VPAC1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B98183D;
+Reference = VP_27;
+ValeurCmp = VPDEV1;
+IdModule  = VPAD_VPAC1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B981905;
+Reference = VP_28;
+ValeurCmp = VPDEV2;
+IdModule  = VPAD_VPAC2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B9819CD;
+Reference = VP_29;
+ValeurCmp = VPDEV2;
+IdModule  = VPAD_VPAC2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B981A95;
+Reference = VP_30;
+ValeurCmp = VPDEV2;
+IdModule  = VPAD_VPAC2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B981B5D;
+Reference = VP_31;
+ValeurCmp = VPDEV1;
+IdModule  = VPAD_VPAC1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B981C25;
+Reference = VP_32;
+ValeurCmp = VPDEV1;
+IdModule  = VPAD_VPAC1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B981CED;
+Reference = VP_33;
+ValeurCmp = VPDEV2;
+IdModule  = VPAD_VPAC2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B981DB5;
+Reference = VP_34;
+ValeurCmp = VPDEV2;
+IdModule  = VPAD_VPAC2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B981E7D;
+Reference = VP_35;
+ValeurCmp = VPDEV2;
+IdModule  = VPAD_VPAC2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B981F45;
+Reference = VP_36;
+ValeurCmp = VPDEV2;
+IdModule  = VPAD_VPAC2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B98200D;
+Reference = VP_37;
+ValeurCmp = VPDEV2;
+IdModule  = VPAD_VPAC2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B9820D5;
+Reference = VP_38;
+ValeurCmp = VPDEV2;
+IdModule  = VPAD_VPAC2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B98219D;
+Reference = VP_39;
+ValeurCmp = VPDEV2;
+IdModule  = VPAD_VPAC2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B982265;
+Reference = VP_40;
+ValeurCmp = VPDEV2;
+IdModule  = VPAD_VPAC2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B98232D;
+Reference = VP_41;
+ValeurCmp = VPDEV2;
+IdModule  = VPAD_VPAC2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B9823F5;
+Reference = VP_42;
+ValeurCmp = VPDEV2;
+IdModule  = VPAD_VPAC2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B9824BD;
+Reference = VP_43;
+ValeurCmp = VPDEV2;
+IdModule  = VPAD_VPAC2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B982585;
+Reference = VP_44;
+ValeurCmp = VPDEV2;
+IdModule  = VPAD_VPAC2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B98264D;
+Reference = VP_45;
+ValeurCmp = VPDEV2;
+IdModule  = VPAD_VPAC2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B982715;
+Reference = VP_46;
+ValeurCmp = VPDEV2;
+IdModule  = VPAD_VPAC2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B9827DD;
+Reference = VP_47;
+ValeurCmp = VPDEV2;
+IdModule  = VPAD_VPAC2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B9828A5;
+Reference = VP_48;
+ValeurCmp = VPDEV2;
+IdModule  = VPAD_VPAC2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B98296D;
+Reference = VP_49;
+ValeurCmp = VPDEV2;
+IdModule  = VPAD_VPAC2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B982A35;
+Reference = VP_50;
+ValeurCmp = VPDEV2;
+IdModule  = VPAD_VPAC2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B982AFD;
+Reference = VP_51;
+ValeurCmp = VPDEV2;
+IdModule  = VPAD_VPAC2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B982BC5;
+Reference = VP_52;
+ValeurCmp = VPDEV2;
+IdModule  = VPAD_VPAC2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B982C8D;
+Reference = VP_53;
+ValeurCmp = VPDEV2;
+IdModule  = VPAD_VPAC2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B982D55;
+Reference = VP_54;
+ValeurCmp = VPDEV2;
+IdModule  = VPAD_VPAC2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B982E1D;
+Reference = VP_55;
+ValeurCmp = VPDEV2;
+IdModule  = VPAD_VPAC2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B982EE5;
+Reference = VP_56;
+ValeurCmp = VPDEV2;
+IdModule  = VPAD_VPAC2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B982FAD;
+Reference = VP_57;
+ValeurCmp = VPDEV2;
+IdModule  = VPAD_VPAC2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B983075;
+Reference = X1;
+ValeurCmp = CON_JST_PH_2PIN;
+IdModule  = MICROBUILDER_JSTPH2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B98313D;
+Reference = X2;
+ValeurCmp = XTAL-3.2X1.5;
+IdModule  = ADAFRUIT2_XTAL3215;
+EndCmp
+
+BeginCmp
+TimeStamp = /5B983205;
+Reference = X3;
+ValeurCmp = USB_MICRO_20329_V2;
+IdModule  = MICROBUILDER_4UCONN_20329_V2;
+EndCmp
+
+EndListe
