@@ -1,6 +1,6 @@
-update=Thursday, September 26, 2019 at 10:56:54 AM
+update=Mon 16 Feb 2015 06:37:24 AM PST
 version=1
-last_client=eeschema
+last_client=kicad
 [pcbnew]
 version=1
 LastNetListRead=Adafruit Feather M4 Express.net
@@ -28,3 +28,5 @@ version=1
 [eeschema]
 version=1
 LibDir=
+[eeschema/libraries]
+LibName1=Adafruit Feather M4 Express
