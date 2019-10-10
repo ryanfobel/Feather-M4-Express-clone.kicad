@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Adafruit-Feather-M4-Express)(type Legacy)(uri "${KIPRJMOD}/Adafruit Feather M4 Express.lib")(options "")(descr ""))
+)
